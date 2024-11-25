@@ -1,0 +1,49 @@
+.pepetapia {
+   
+    justify-content:center;
+}
+img{
+   
+    align-items: center;
+    margin: auto;}
+:root {
+  --Verde: #7aff33;
+  --verdeB: #21A642;
+ --verdec :  #025918;
+  --verded:  #d9fde2;
+  --blanco :  #F2F2F2;
+  }
+  
+  h1{
+   color: #025918; 
+  }
+  
+  h2{
+  color: #21A642;
+  }
+  
+  p{
+  color: #F2F2F2
+  }
+  h3{
+    color:var(--Verde)
+  }
+  h4{ color: #d9fde2;}
+  .font1 {
+    font-family: "Bebas Neue", sans-serif;
+    font-style: normal;
+  }
+  .font2 {
+      font-family: "Lora", serif;
+      font-style: normal;
+    }
+
+  
+  
+  .imagen{width: 40px;
+    height: 30px;
+    
+
+  }
+
+
